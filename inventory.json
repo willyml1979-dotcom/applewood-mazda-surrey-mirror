@@ -1,7 +1,7 @@
 {
   "dealership": "Applewood Mazda Surrey",
-  "generated_at": "2026-09-24T17:44:45",
-  "vehicle_count": 155,
+  "generated_at": "2026-09-24T18:21:21",
+  "vehicle_count": 156,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -108,6 +108,18 @@
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gs-5w48PzuTSUG96C9hGaCuDwvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gs-5w48PzuTSUG96C9hGaCuDwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T22:50:28",
+      "odometer_km": 16000,
+      "condition": "new"
+    },
+    {
+      "name": "New2026MazdaCX-30GS",
+      "vin": "3MVDMBCL0TM128519",
+      "stock": "6S8519",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/ad3dedf8e432.html",
+      "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gs-J0kPeyUXQeG5pO9P0SsRuQvdp",
+      "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gs-J0kPeyUXQeG5pO9P0SsRuQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T18:18:24",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -479,7 +491,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/d924dc03beed.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-EFRhOHOhSyqUIdqeBRId2Qvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-EFRhOHOhSyqUIdqeBRId2Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:20:18",
+      "last_verified": "2026-09-24T18:18:36",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -491,7 +503,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/90269f91099f.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-FdVkTW8JSqOtiesNkJm5dwvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-FdVkTW8JSqOtiesNkJm5dwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:20:35",
+      "last_verified": "2026-09-24T18:18:48",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -503,7 +515,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/8ddc681e3568.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-MZMaiKs3SsCOvaNE9CPKcwvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-MZMaiKs3SsCOvaNE9CPKcwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:20:52",
+      "last_verified": "2026-09-24T18:19:00",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -515,7 +527,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/e63d58a660fc.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-MhTwOwYiTv6njvlcRdV5tgvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-MhTwOwYiTv6njvlcRdV5tgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:21:06",
+      "last_verified": "2026-09-24T18:19:10",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -527,7 +539,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/1e75edaf876b.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-MmKNMiu4T4CpGcACET1lVQvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-MmKNMiu4T4CpGcACET1lVQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:21:26",
+      "last_verified": "2026-09-24T18:19:23",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -551,7 +563,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/15505ea56d91.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-SAcV0t5EStGkfyhaWoGESAvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-SAcV0t5EStGkfyhaWoGESAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:21:45",
+      "last_verified": "2026-09-24T18:19:35",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -563,7 +575,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/1985d5bd7c76.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-TUTL2vgWQ4uQywQaBK2Ckgvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-TUTL2vgWQ4uQywQaBK2Ckgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:22:01",
+      "last_verified": "2026-09-24T18:19:46",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -575,7 +587,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/1b4b14f99660.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-TWehXg0UT62MKZ6TOssbUQvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-TWehXg0UT62MKZ6TOssbUQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:22:17",
+      "last_verified": "2026-09-24T18:19:57",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -587,7 +599,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/0336505e6dca.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-UyO8rv2oT5WnhXEzunl8dgvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-UyO8rv2oT5WnhXEzunl8dgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:22:29",
+      "last_verified": "2026-09-24T18:20:07",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -599,7 +611,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/5c5603386313.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-ZmGTPovzT0W3L57Zs409Ywvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-ZmGTPovzT0W3L57Zs409Ywvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:22:40",
+      "last_verified": "2026-09-24T18:20:18",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -611,7 +623,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/26c12c42a77c.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-dZNATOBPSUCMJMZVAbuQXQvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-dZNATOBPSUCMJMZVAbuQXQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:22:52",
+      "last_verified": "2026-09-24T18:20:29",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -623,7 +635,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/56e51c2a8569.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-ehJdetCqRTqIo0lWpfXZPwvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-ehJdetCqRTqIo0lWpfXZPwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:23:07",
+      "last_verified": "2026-09-24T18:20:41",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -635,7 +647,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/041f323a10f3.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-fZVP8F2CQjalQSzkg4yopgvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-fZVP8F2CQjalQSzkg4yopgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:23:19",
+      "last_verified": "2026-09-24T18:20:52",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -647,7 +659,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/ae9a638835f5.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-gGXZIN7yRJOdVfFq46Qnwwvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-gGXZIN7yRJOdVfFq46Qnwwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:23:32",
+      "last_verified": "2026-09-24T18:21:05",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -659,7 +671,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/faf1463b2d3e.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-gwhF9PaxRWil0YUpDWNqlgvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-gwhF9PaxRWil0YUpDWNqlgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:23:44",
+      "last_verified": "2026-09-24T18:21:15",
       "odometer_km": 16000,
       "condition": "new"
     },
