@@ -1,22 +1,10 @@
 {
   "dealership": "Applewood Mazda Surrey",
-  "generated_at": "2026-09-24T18:21:21",
-  "vehicle_count": 156,
+  "generated_at": "2026-09-25T20:33:37",
+  "vehicle_count": 155,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
-    {
-      "name": "New2026MazdaCX-30GT",
-      "vin": "3MVDMBDL4TM139618",
-      "stock": "6S9618",
-      "color": "Gray",
-      "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/used/9c971019d094.html",
-      "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gt-2vGgbKWtQAie9QuJYAiEYAvdp",
-      "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gt-2vGgbKWtQAie9QuJYAiEYAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:25:17",
-      "odometer_km": 16000,
-      "condition": "used"
-    },
     {
       "name": "New2026MazdaCX-5GT",
       "vin": "JM3KMDHAXT0215592",
