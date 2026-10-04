@@ -1,7 +1,7 @@
 {
   "dealership": "Applewood Mazda Surrey",
-  "generated_at": "2026-10-02T22:27:46",
-  "vehicle_count": 160,
+  "generated_at": "2026-10-03T22:42:24",
+  "vehicle_count": 156,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -161,6 +161,30 @@
     },
     {
       "name": "New2026MazdaCX-30GX",
+      "vin": "3MVDMBBL9TM220567",
+      "stock": "6S0567",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/8409efcc8784.html",
+      "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gx-1TkSXzxOTpmFRO9dfgaXIgvdp",
+      "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gx-1TkSXzxOTpmFRO9dfgaXIgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T22:38:58",
+      "odometer_km": 16000,
+      "condition": "new"
+    },
+    {
+      "name": "New2026MazdaCX-30GX",
+      "vin": "3MVDMBBL4TM235283",
+      "stock": "6S5283",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/6625d337b1d5.html",
+      "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gx-4HwdwhCVRJqEjkTfJaQZYwvdp",
+      "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gx-4HwdwhCVRJqEjkTfJaQZYwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T22:39:08",
+      "odometer_km": 16000,
+      "condition": "new"
+    },
+    {
+      "name": "New2026MazdaCX-30GX",
       "vin": "3MVDMBBL2TM223634",
       "stock": "6S3634",
       "color": "Black",
@@ -216,6 +240,18 @@
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gx-u7NA6ohwSjunTSJmeUXrAwvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gx-u7NA6ohwSjunTSJmeUXrAwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:21:22",
+      "odometer_km": 16000,
+      "condition": "new"
+    },
+    {
+      "name": "New2026MazdaCX-30GX",
+      "vin": "3MVDMBBLXTM222411",
+      "stock": "6S2411",
+      "color": "Blue",
+      "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/435efb0d08d6.html",
+      "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gx-yqGbFi5UR3GIG4O0klpDAAvdp",
+      "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gx-yqGbFi5UR3GIG4O0klpDAAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T22:39:19",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -917,18 +953,6 @@
     },
     {
       "name": "New2026MazdaCX-5GX",
-      "vin": "JM3KMAHA4T0218373",
-      "stock": "6Q8373",
-      "color": "Red",
-      "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/7224bf2d52af.html",
-      "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gx-Z3360JNYQcyOm2avebe11gvdp",
-      "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gx-Z3360JNYQcyOm2avebe11gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T05:22:59",
-      "odometer_km": 16000,
-      "condition": "new"
-    },
-    {
-      "name": "New2026MazdaCX-5GX",
       "vin": "JM3KMAHA8T0215427",
       "stock": "6Q5427",
       "color": "Gray",
@@ -1109,18 +1133,6 @@
     },
     {
       "name": "New2026MazdaCX-70 PHEVSignature",
-      "vin": "JM3KJEHA5T1215864",
-      "stock": "6F5864",
-      "color": "Red",
-      "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/3d7e53973aa8.html",
-      "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-70-phev-signature-61nJSo8cSGq589oCMghT1gvdp",
-      "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-70-phev-signature-61nJSo8cSGq589oCMghT1gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T22:49:29",
-      "odometer_km": 16000,
-      "condition": "new"
-    },
-    {
-      "name": "New2026MazdaCX-70 PHEVSignature",
       "vin": "JM3KJEHA8T1205135",
       "stock": "6F5135",
       "color": "Black",
@@ -1152,18 +1164,6 @@
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-70-phev-signature-EuwP4C3kS2ajgtUepPdcuQvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-70-phev-signature-EuwP4C3kS2ajgtUepPdcuQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T22:30:40",
-      "odometer_km": 16000,
-      "condition": "new"
-    },
-    {
-      "name": "New2026MazdaCX-70 PHEVSignature",
-      "vin": "JM3KJEHA1T1202514",
-      "stock": "6F2514",
-      "color": "Gray",
-      "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/d65b7e87ea15.html",
-      "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-70-phev-signature-YUESChnNRIK0eglp4EM4Wwvdp",
-      "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-70-phev-signature-YUESChnNRIK0eglp4EM4Wwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T22:30:51",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -1400,28 +1400,6 @@
     },
     {
       "name": "New2026MazdaCX-90 PHEVGT",
-      "vin": "JM3KKDHA1T1409928",
-      "stock": "6D9928",
-      "color": "Gray",
-      "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/b6e9678b60fd.html",
-      "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-WUsHK25eRIWtTGsbfYplZgvdp",
-      "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-WUsHK25eRIWtTGsbfYplZgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T22:27:18",
-      "condition": "new"
-    },
-    {
-      "name": "New2026MazdaCX-90 PHEVGT",
-      "vin": "JM3KKDHA4T1410314",
-      "stock": "6D0314",
-      "color": "Black",
-      "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/3dd3609df096.html",
-      "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-Y8QvktUNRImE5Yf68RGlEgvdp",
-      "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-Y8QvktUNRImE5Yf68RGlEgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-02T22:27:28",
-      "condition": "new"
-    },
-    {
-      "name": "New2026MazdaCX-90 PHEVGT",
       "vin": "JM3KKDHA2T1410473",
       "stock": "6D0473",
       "color": "Gray",
@@ -1440,7 +1418,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/f6a41211ecf8.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-fXHU3OvYQTupiMFyEjQctAvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-fXHU3OvYQTupiMFyEjQctAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:34:50",
+      "last_verified": "2026-10-03T22:39:40",
       "condition": "new"
     },
     {
@@ -1451,7 +1429,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/04a3c495867a.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-rdUm2GV8QMyrnpZii64FDAvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-rdUm2GV8QMyrnpZii64FDAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:35:02",
+      "last_verified": "2026-10-03T22:39:50",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -1463,7 +1441,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/789cfffbe750.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-tzI1USavSHyQIQjPfM7EPgvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-tzI1USavSHyQIQjPfM7EPgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:35:13",
+      "last_verified": "2026-10-03T22:40:03",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -1475,7 +1453,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/03b73c9a0c44.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-xNVVTf3hTCCFE1Ouu3d2xAvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-xNVVTf3hTCCFE1Ouu3d2xAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:35:26",
+      "last_verified": "2026-10-03T22:40:15",
       "condition": "new"
     },
     {
@@ -1486,7 +1464,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/4aca4c919bd7.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-31nlPfxSTQaYONzZtHIpWwvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-31nlPfxSTQaYONzZtHIpWwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:35:51",
+      "last_verified": "2026-10-03T22:40:27",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -1498,7 +1476,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/493c8b5716d9.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-4OlfffxCSdyUB1KkwAI6SQvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-4OlfffxCSdyUB1KkwAI6SQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:36:03",
+      "last_verified": "2026-10-03T22:40:37",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -1510,7 +1488,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/0cc684357c37.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-7AM47APDSneOoBzgIqt0hwvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-7AM47APDSneOoBzgIqt0hwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:36:30",
+      "last_verified": "2026-10-03T22:40:49",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -1522,7 +1500,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/c873b2acc4ef.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-JWENnQrETLGK1YAaw1XtLAvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-JWENnQrETLGK1YAaw1XtLAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:36:44",
+      "last_verified": "2026-10-03T22:41:00",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -1534,7 +1512,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/eeedcb822bf6.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-MGi7rW4ATXON4Vmjwh3wQwvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-MGi7rW4ATXON4Vmjwh3wQwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:36:58",
+      "last_verified": "2026-10-03T22:41:10",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -1546,7 +1524,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/9c685106138e.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-c6Oe14OMTdGF2hM3lbJqWwvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-c6Oe14OMTdGF2hM3lbJqWwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:37:12",
+      "last_verified": "2026-10-03T22:41:21",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -1558,7 +1536,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/571a32610a3f.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-ikvMgqIaTAel3gN6KrPHwAvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-ikvMgqIaTAel3gN6KrPHwAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:37:24",
+      "last_verified": "2026-10-03T22:41:33",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -1570,7 +1548,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/a103342f46d9.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-sowkikJMShiM6399elLtHQvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-sowkikJMShiM6399elLtHQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:37:35",
+      "last_verified": "2026-10-03T22:41:46",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -1582,7 +1560,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/aa9c9ced6d1c.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-ubgjY39WSBq2FA9AYsbHkwvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-ubgjY39WSBq2FA9AYsbHkwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:37:50",
+      "last_verified": "2026-10-03T22:41:56",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -1594,7 +1572,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/9deba0af1ee8.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-xz8qRH4rQAqo55iA6OqpKgvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-xz8qRH4rQAqo55iA6OqpKgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:38:04",
+      "last_verified": "2026-10-03T22:42:07",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -1606,7 +1584,7 @@
       "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/37fece16cd31.html",
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gs-8EPJH9dgRIC10lrhZqvQ7wvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gs-8EPJH9dgRIC10lrhZqvQ7wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:38:16",
+      "last_verified": "2026-10-03T22:42:17",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -1636,18 +1614,6 @@
     },
     {
       "name": "New2026MazdaMazda3GS",
-      "vin": "3MZBPACL4TM516389",
-      "stock": "6A6389",
-      "color": "Gray",
-      "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/e7a323b19e93.html",
-      "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gs-Xs04tqcpQqm5pz5WbdnJBQvdp",
-      "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gs-Xs04tqcpQqm5pz5WbdnJBQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T05:23:10",
-      "odometer_km": 16000,
-      "condition": "new"
-    },
-    {
-      "name": "New2026MazdaMazda3GS",
       "vin": "3MZBPACL6TM514529",
       "stock": "6A4529",
       "color": "Blue",
@@ -1655,18 +1621,6 @@
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gs-f6b06sGITxazzcd8pVgThwvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gs-f6b06sGITxazzcd8pVgThwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:38:55",
-      "odometer_km": 16000,
-      "condition": "new"
-    },
-    {
-      "name": "New2026MazdaMazda3GT",
-      "vin": "3MZBPBDL8TM511457",
-      "stock": "6A1457",
-      "color": "Tan",
-      "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/4f361b4e980b.html",
-      "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gt-5yhT4xMbRHedczLvhrceygvdp",
-      "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gt-5yhT4xMbRHedczLvhrceygvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:39:31",
       "odometer_km": 16000,
       "condition": "new"
     },
@@ -1768,18 +1722,6 @@
     },
     {
       "name": "New2026MazdaMazda3GT w/Turbo",
-      "vin": "3MZBPBDY8TM514340",
-      "stock": "6B4340",
-      "color": "White",
-      "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/fb1fbc7bc4d7.html",
-      "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gt-w-turbo-ZgGoEnKWRWif0LrAnuL6CQvdp",
-      "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gt-w-turbo-ZgGoEnKWRWif0LrAnuL6CQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-22T16:41:17",
-      "odometer_km": 16000,
-      "condition": "new"
-    },
-    {
-      "name": "New2026MazdaMazda3GT w/Turbo",
       "vin": "3MZBPBDY9TM512242",
       "stock": "6A2242",
       "color": "White",
@@ -1787,6 +1729,18 @@
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gt-w-turbo-h13aKJi9SNqVQza7ZQxbAQvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gt-w-turbo-h13aKJi9SNqVQza7ZQxbAQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:41:30",
+      "odometer_km": 16000,
+      "condition": "new"
+    },
+    {
+      "name": "New2026MazdaMazda3GT w/Turbo",
+      "vin": "3MZBPBDY6TM515955",
+      "stock": "6A5955",
+      "color": "Black",
+      "url": "https://willyml1979-dotcom.github.io/applewood-mazda-surrey-mirror/new/38085de96f98.html",
+      "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gt-w-turbo-wx7HFhiCRYahXtfanhWiMwvdp",
+      "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gt-w-turbo-wx7HFhiCRYahXtfanhWiMwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-03T22:39:30",
       "odometer_km": 16000,
       "condition": "new"
     },
