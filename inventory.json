@@ -1,6 +1,6 @@
 {
   "dealership": "Applewood Mazda Surrey",
-  "generated_at": "2026-10-05T02:02:50",
+  "generated_at": "2026-10-08T14:33:16",
   "vehicle_count": 156,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -15,7 +15,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-1eyYSx20RJy7NWsW3mv0TAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:25:38",
       "odometer_km": 16000,
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -27,7 +29,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-2CexpAVDTcmyGuuz9GNKeAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:25:51",
       "odometer_km": 16000,
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 MHEVSignature",
@@ -39,7 +43,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-mhev-signature-0vm7JepIQfOyGqo1QCqypwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:26:17",
       "odometer_km": 16000,
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 MHEVSignature",
@@ -51,7 +57,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-mhev-signature-2OYW0KIeQJmaQZDRtjzTqQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:26:27",
       "odometer_km": 16000,
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3GT w/Turbo",
@@ -63,7 +71,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gt-w-turbo-1yJGDPsEQQy1DRVMqq421Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:26:55",
       "odometer_km": 16000,
-      "condition": "used"
+      "condition": "used",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2025MazdaCX-70 PHEVGS-L",
@@ -74,7 +84,9 @@
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2025-mazda-cx-70-phev-gs-l-WR1x1tzlSKaOmp5lvFmINAvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2025-mazda-cx-70-phev-gs-l-WR1x1tzlSKaOmp5lvFmINAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:13:56",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2025MazdaCX-90 PHEVGT",
@@ -85,7 +97,9 @@
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2025-mazda-cx-90-phev-gt-qIdW5aEQThmYcesk8P6ReAvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2025-mazda-cx-90-phev-gt-qIdW5aEQThmYcesk8P6ReAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:14:08",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-30GS",
@@ -97,7 +111,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gs-3IZ8cGHgQcaKZQXOYDH4qQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:20:14",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-30GS",
@@ -109,7 +125,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gs-5w48PzuTSUG96C9hGaCuDwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T22:50:28",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-30GS",
@@ -121,7 +139,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gs-wnCIxTYtQWumPKpi9krjFQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:20:26",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-30GT",
@@ -133,7 +153,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gt-2vGgbKWtQAie9QuJYAiEYAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:14:41",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-30GT",
@@ -145,7 +167,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gt-MoljdLsRSMO7WuScfmqdZgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T22:48:42",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-30GT w/Turbo",
@@ -157,7 +181,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gt-w-turbo-EsCXLkxkTly3pc8POd52cAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:20:37",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-30GX",
@@ -169,7 +195,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gx-1TkSXzxOTpmFRO9dfgaXIgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T22:38:58",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-30GX",
@@ -181,7 +209,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gx-4HwdwhCVRJqEjkTfJaQZYwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T22:39:08",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-30GX",
@@ -193,7 +223,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gx-8dXk7idQRs6nNmieVf9NHQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:20:47",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-30GX",
@@ -205,7 +237,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gx-N4KuBChSQgCGjW2TQP6gnwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:20:59",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-30GX",
@@ -217,7 +251,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gx-V6h0vANRQtWeW9c9sZMmdgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:21:10",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-30GX",
@@ -229,7 +265,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gx-fv2wRV9oQAGDWcKNOROupwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T22:51:18",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-30GX",
@@ -241,7 +279,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gx-u7NA6ohwSjunTSJmeUXrAwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:21:22",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-30GX",
@@ -253,7 +293,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-30-gx-yqGbFi5UR3GIG4O0klpDAAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T22:39:19",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GS",
@@ -265,7 +307,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gs-7bxaRJKeQ52cgFfI9F5kdQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:15:20",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GS",
@@ -277,7 +321,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gs-CLzzPkOJTVOWO3eLR4kbKAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:21:32",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GS",
@@ -289,7 +335,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gs-CYYfHc8ARTuzoxN5BoPwOwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:15:52",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GS",
@@ -301,7 +349,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gs-G01FtuasRHiGm0p9FeoIGAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:16:03",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GS",
@@ -313,7 +363,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gs-KM6R1gr8Ra25R1Pl7KHP6Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:16:15",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GS",
@@ -325,7 +377,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gs-MJFz7XynSkCtXgS5DBQqUwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:21:44",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GS",
@@ -337,7 +391,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gs-O68rUbAeQumk9EPNWcUdpQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:16:28",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GS",
@@ -349,7 +405,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gs-ZicQFwWfTfONiOYkTA1TiAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:16:43",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GS",
@@ -361,7 +419,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gs-ZtP0OjB2TqSa50J1eZCHiAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T05:23:45",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GS",
@@ -373,7 +433,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gs-et4lZ8TjRbCPcLmhlkdx3Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T05:23:54",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GS",
@@ -385,7 +447,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gs-hIzUHIJETcWMLUYNv74nUAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T22:28:45",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GS",
@@ -397,7 +461,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gs-jbO5TKWlQfyQrwvXrNUeOwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T05:24:06",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GS",
@@ -409,7 +475,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gs-uDhlnrIJTl2s3fRheMQPZgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T05:24:17",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GS",
@@ -421,7 +489,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gs-zz1g74N6SZixAjp3AEwIyAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T22:28:55",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -433,7 +503,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-1eyYSx20RJy7NWsW3mv0TAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T05:24:29",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -445,7 +517,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-2CexpAVDTcmyGuuz9GNKeAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T05:24:40",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -457,7 +531,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-31AzZZbkQzCLE74g2Bmm6gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T05:24:50",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -469,7 +545,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-3XaFqwBtQz2cUTSPWxxlBgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T05:25:02",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -481,7 +559,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-4ERS7P7GQHWq9NnfuvsHCAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T05:25:12",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -493,7 +573,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-4G3cNYX9R4Gq5kX9AWkMaQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:21:55",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -505,7 +587,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-6ITkm49YS6GsF6ip3skeOAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T05:25:23",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -517,7 +601,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-7d2kFtuWRxmeCOQJ8pLZuQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T05:25:32",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -529,7 +615,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-7fBFwHx0SXuXm1zKrTsWEwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T05:25:44",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -541,7 +629,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-AVTjjws7RW6GFBmWYhZqQQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T05:25:54",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -553,7 +643,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-CnSM5SWoSlGOiOg9CIF4Cgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:22:05",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -565,7 +657,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-D0Hh0EDRTEaXSqHJ8gAH8wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T05:26:05",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -577,7 +671,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-DFJ3kqPOTJ6YjPU3VQNPlQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T05:26:17",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -589,7 +685,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-DQk5YY4RSmOc5xGdARbv6Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:22:17",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -601,7 +699,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-EFRhOHOhSyqUIdqeBRId2Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:18:36",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -613,7 +713,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-FdVkTW8JSqOtiesNkJm5dwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:18:48",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -625,7 +727,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-K7qCQJVkRCWDcBV2mfyTKAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:22:28",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -637,7 +741,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-LWXpYT7OTBSyoh3KGsR6KAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:22:38",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -649,7 +755,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-MZMaiKs3SsCOvaNE9CPKcwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:19:00",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -661,7 +769,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-MhTwOwYiTv6njvlcRdV5tgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:19:10",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -673,7 +783,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-MmKNMiu4T4CpGcACET1lVQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:19:23",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -685,7 +797,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-NEYshvZMRXmILSJNtxOGSwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:22:50",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -697,7 +811,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-P1qtTPcEQmqAqvQ10ZkH9gvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T22:49:06",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -709,7 +825,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-PnaLdrCKTdaLzA6XNBk7oQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:23:00",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -721,7 +839,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-SAcV0t5EStGkfyhaWoGESAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:19:35",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -733,7 +853,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-TUTL2vgWQ4uQywQaBK2Ckgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:19:46",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -745,7 +867,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-TWehXg0UT62MKZ6TOssbUQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:19:57",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -757,7 +881,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-UyO8rv2oT5WnhXEzunl8dgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:20:07",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -769,7 +895,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-ZmGTPovzT0W3L57Zs409Ywvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:20:18",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -781,7 +909,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-dZNATOBPSUCMJMZVAbuQXQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:20:29",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -793,7 +923,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-dh1x6WmFS9yOEvx0yOiUfQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:23:10",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -805,7 +937,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-eYQXjsm3Q5eJowoYMYJTJAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:23:22",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -817,7 +951,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-fZVP8F2CQjalQSzkg4yopgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:20:52",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -829,7 +965,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-gGXZIN7yRJOdVfFq46Qnwwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:21:05",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -841,7 +979,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-gmwgPFHhT3yMCFWC1xAZYAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:23:35",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -853,7 +993,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-gwhF9PaxRWil0YUpDWNqlgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T18:21:15",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -865,7 +1007,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-jtNHSdVgTRyGE4mRd9xFVwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T20:37:38",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -877,7 +1021,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-kM8VQXJVQ8Ovd2tvoYbeIAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T20:37:51",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -889,7 +1035,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-nehzNPdVTiuPlBkLeWPRjAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T05:22:15",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GT",
@@ -901,7 +1049,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gt-qXW5omeQQ5Ss6qKP9sILhgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T20:38:03",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GX",
@@ -913,7 +1063,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gx-4cjx1jjyQRiOHlmRt1gxNAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T05:22:26",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GX",
@@ -925,7 +1077,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gx-E7udP44BRzCXGLD0iJNisQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T20:38:15",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GX",
@@ -937,7 +1091,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gx-IgW3jg14TkqzZBOMvwZB7Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T05:22:36",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GX",
@@ -949,7 +1105,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gx-JRiqlOexTaycjWgGxGnk4Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-24T05:22:47",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GX",
@@ -961,7 +1119,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gx-eQDOwiWvQoucxvdfjNMzuwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T22:49:19",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-5GX",
@@ -973,7 +1133,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-5-gx-wQNl1f3QRLi7dXEtGR309Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T20:38:26",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-70 MHEVGT",
@@ -985,7 +1147,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-70-mhev-gt-Lst7qvI8SQuKa6CJHzf8PAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T20:38:49",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-70 MHEVGT-P",
@@ -997,7 +1161,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-70-mhev-gt-p-3z98R1aWRH2b0dDXJUKPlAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T20:38:59",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-70 MHEVGT-P",
@@ -1009,7 +1175,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-70-mhev-gt-p-d4thi6AwQoeI1OaZE7sjMAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T20:39:12",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-70 MHEVGT-P",
@@ -1021,7 +1189,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-70-mhev-gt-p-f97dwTI5S3mRrX0HrAuHpwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T20:39:24",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-70 PHEVGS-L SC",
@@ -1033,7 +1203,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-70-phev-gs-l-sc-Pig8QP7UT6KVqKxbf1IMYAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T20:39:35",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-70 PHEVGS-L SC",
@@ -1045,7 +1217,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-70-phev-gs-l-sc-cdYXRIMkSYOeLTFLzMOOOwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T20:39:46",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-70 PHEVGS-L SC",
@@ -1057,7 +1231,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-70-phev-gs-l-sc-wAeUxBxvTIePtQQNjR7jkwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T20:39:58",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-70 PHEVGS SC",
@@ -1069,7 +1245,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-70-phev-gs-sc-HhU8WHEaQDGVty2VosKPgQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:23:47",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-70 PHEVGT",
@@ -1081,7 +1259,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-70-phev-gt-4SMhKr7bQtOUSfIuMHV0aQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T22:29:26",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-70 PHEVGT",
@@ -1093,7 +1273,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-70-phev-gt-PeDMmeDaSSual3ufPIXuDAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T22:29:37",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-70 PHEVGT",
@@ -1105,7 +1287,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-70-phev-gt-hGU3lyKAR0isTpgQlvn8Hgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T22:29:48",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-70 PHEVGT",
@@ -1117,7 +1301,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-70-phev-gt-xK5NHj1nQ4GYlL3HO5mB7Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T22:29:57",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-70 PHEVGT",
@@ -1129,7 +1315,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-70-phev-gt-xpR8AdcyRyyjZZ7eZ7XvIQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T22:30:08",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-70 PHEVSignature",
@@ -1141,7 +1329,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-70-phev-signature-6BqpZRVvR06tA0Y2yujjiAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T22:30:19",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-70 PHEVSignature",
@@ -1153,7 +1343,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-70-phev-signature-A79mCWuYSZO5efQP9sygOQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T22:30:28",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-70 PHEVSignature",
@@ -1165,7 +1357,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-70-phev-signature-EuwP4C3kS2ajgtUepPdcuQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T22:30:40",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-70 PHEVSignature",
@@ -1177,7 +1371,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-70-phev-signature-evDGVR8qRbKifIThH3bICwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T22:31:02",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 MHEVGS-L",
@@ -1189,7 +1385,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-mhev-gs-l-QCHEf5htRxaqPqNDXgP0IAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T22:31:12",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 MHEVGT",
@@ -1201,7 +1399,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-mhev-gt-4sp2XrpZTwKoXAhhPRMZVQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T22:31:23",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 MHEVGT",
@@ -1213,7 +1413,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-mhev-gt-jHLL5rTQSKepHeJLXXAhVAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:23:57",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 MHEVGT-P",
@@ -1224,7 +1426,9 @@
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-mhev-gt-p-eLJxoIQTQXKnfjtvKUawwAvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-mhev-gt-p-eLJxoIQTQXKnfjtvKUawwAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T22:31:46",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 MHEVSignature",
@@ -1236,7 +1440,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-mhev-signature-0vm7JepIQfOyGqo1QCqypwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-26T22:31:58",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 MHEVSignature",
@@ -1247,7 +1453,9 @@
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-mhev-signature-2OYW0KIeQJmaQZDRtjzTqQvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-mhev-signature-2OYW0KIeQJmaQZDRtjzTqQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:25:06",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 MHEVSignature",
@@ -1258,7 +1466,9 @@
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-mhev-signature-49Qi60NkQ8mwavFIUBeRYQvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-mhev-signature-49Qi60NkQ8mwavFIUBeRYQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:25:18",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 MHEVSignature",
@@ -1270,7 +1480,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-mhev-signature-GBu4jrmxRVG8IrRq66nMcwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:25:30",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 MHEVSignature",
@@ -1281,7 +1493,9 @@
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-mhev-signature-W52jQ7n2QNGics3eAh3AoAvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-mhev-signature-W52jQ7n2QNGics3eAh3AoAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:25:41",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 MHEVSignature",
@@ -1293,7 +1507,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-mhev-signature-haRbsxlIS3GOzsUoA0qUkwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:25:53",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 MHEVSignature",
@@ -1305,7 +1521,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-mhev-signature-pXlz1sEWQVKdxgiwOIb3xAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:26:03",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 MHEVSignature",
@@ -1317,7 +1535,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-mhev-signature-qKbievGoR9Ct6gnf0r0S6wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:26:14",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 PHEVGS",
@@ -1329,7 +1549,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gs-Lh2862srT9eYbnIZGNLCugvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:24:07",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 PHEVGS-L",
@@ -1340,7 +1562,9 @@
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gs-l-94148UcoQN2JtOYHw1pIcgvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gs-l-94148UcoQN2JtOYHw1pIcgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:26:25",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 PHEVGS",
@@ -1352,7 +1576,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gs-yD4NGfhhQEWow1wON1X8LAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:24:18",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 PHEVGT",
@@ -1363,7 +1589,9 @@
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-6Uiv61mCQTmRXeJAEv4Yggvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-6Uiv61mCQTmRXeJAEv4Yggvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:26:35",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 PHEVGT",
@@ -1374,7 +1602,9 @@
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-CQ62LqwwSAq2gd2aiLBLWAvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-CQ62LqwwSAq2gd2aiLBLWAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:26:47",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 PHEVGT",
@@ -1385,7 +1615,9 @@
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-EhUTgE2kT9aKOyjghVRYswvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-EhUTgE2kT9aKOyjghVRYswvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:26:57",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 PHEVGT",
@@ -1396,7 +1628,9 @@
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-OAv6cFhwRqazZWln6LBcogvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-OAv6cFhwRqazZWln6LBcogvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:27:08",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 PHEVGT",
@@ -1408,7 +1642,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-aPekKIoSTl6I3xYZeIZuhwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:27:38",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 PHEVGT",
@@ -1419,7 +1655,9 @@
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-fXHU3OvYQTupiMFyEjQctAvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-fXHU3OvYQTupiMFyEjQctAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T22:39:40",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 PHEVGT",
@@ -1431,7 +1669,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-rdUm2GV8QMyrnpZii64FDAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T22:39:50",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 PHEVGT",
@@ -1443,7 +1683,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-tzI1USavSHyQIQjPfM7EPgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T22:40:03",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 PHEVGT",
@@ -1454,7 +1696,9 @@
       "source_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-xNVVTf3hTCCFE1Ouu3d2xAvdp",
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-gt-xNVVTf3hTCCFE1Ouu3d2xAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T22:40:15",
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 PHEVSignature",
@@ -1466,7 +1710,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-31nlPfxSTQaYONzZtHIpWwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T22:40:27",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 PHEVSignature",
@@ -1478,7 +1724,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-4OlfffxCSdyUB1KkwAI6SQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T22:40:37",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 PHEVSignature",
@@ -1490,7 +1738,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-7AM47APDSneOoBzgIqt0hwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T22:40:49",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 PHEVSignature",
@@ -1502,7 +1752,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-JWENnQrETLGK1YAaw1XtLAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T22:41:00",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 PHEVSignature",
@@ -1514,7 +1766,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-MGi7rW4ATXON4Vmjwh3wQwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T22:41:10",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 PHEVSignature",
@@ -1526,7 +1780,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-c6Oe14OMTdGF2hM3lbJqWwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T22:41:21",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 PHEVSignature",
@@ -1538,7 +1794,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-ikvMgqIaTAel3gN6KrPHwAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T22:41:33",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 PHEVSignature",
@@ -1550,7 +1808,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-sowkikJMShiM6399elLtHQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T22:41:46",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 PHEVSignature",
@@ -1562,7 +1822,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-ubgjY39WSBq2FA9AYsbHkwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T22:41:56",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaCX-90 PHEVSignature",
@@ -1574,7 +1836,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-cx-90-phev-signature-xz8qRH4rQAqo55iA6OqpKgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T22:42:07",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3GS",
@@ -1586,7 +1850,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gs-8EPJH9dgRIC10lrhZqvQ7wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T22:42:17",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3GS",
@@ -1598,7 +1864,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gs-GLuN7g5PRi6UQl8IVABHcQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:38:27",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3GS",
@@ -1610,7 +1878,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gs-VcR8uNbTTbWL0sXMCKDx4wvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:38:42",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3GS",
@@ -1622,7 +1892,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gs-f6b06sGITxazzcd8pVgThwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:38:55",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3GT",
@@ -1634,7 +1906,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gt-80pV8Zn2TPKQrF9tpPTAZAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:39:44",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3GT",
@@ -1646,7 +1920,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gt-BG2UkipaTxi53gbG0GhjYwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:39:58",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3GT",
@@ -1658,7 +1934,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gt-C09L7OusRIKWoMRb0irPGwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:40:12",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3GT",
@@ -1670,7 +1948,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gt-ntLoHH7BTDikvImLUFbV5Avdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:24:28",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3GT",
@@ -1682,7 +1962,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gt-rBATyDQPTqmdbUXuQDVUwwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:40:42",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3GT w/Turbo",
@@ -1694,7 +1976,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gt-w-turbo-1yJGDPsEQQy1DRVMqq421Qvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:40:55",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3GT w/Turbo",
@@ -1706,7 +1990,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gt-w-turbo-2PJjtofCRp2bBxF4SviZRAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:24:41",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3GT w/Turbo",
@@ -1718,7 +2004,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gt-w-turbo-4Esvu039T7m10wqU3QZxdQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:41:04",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3GT w/Turbo",
@@ -1730,7 +2018,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gt-w-turbo-h13aKJi9SNqVQza7ZQxbAQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:41:30",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3GT w/Turbo",
@@ -1742,7 +2032,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gt-w-turbo-wx7HFhiCRYahXtfanhWiMwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-03T22:39:30",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3GT",
@@ -1754,7 +2046,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-gt-z1thUCo4SbaBpmEfQIYXPAvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-02T22:24:55",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3 SportGS",
@@ -1766,7 +2060,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-sport-gs-4YDQYRwUSQuRSELryfe0awvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:41:42",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3 SportGS",
@@ -1778,7 +2074,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-sport-gs-EwT4HSCbQRueCNbsK0eTlwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T22:49:40",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3 SportGS",
@@ -1790,7 +2088,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-sport-gs-VrXg7036QFqwR3dAekhTOQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:41:52",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3 SportGT",
@@ -1802,7 +2102,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-sport-gt-kbCdFfmKTWif00fobknWiQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:42:05",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3 SportGT w/Turbo",
@@ -1814,7 +2116,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-sport-gt-w-turbo-LwqJFAmvT9i4FSTAaRELegvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T22:49:50",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3 SportGT w/Turbo",
@@ -1826,7 +2130,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-sport-gt-w-turbo-cPawtWn6SUOjO9HOEYIJsQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:42:29",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3 SportGT w/Turbo",
@@ -1838,7 +2144,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-sport-gt-w-turbo-tA2gysT6QrSoco0LwjsApgvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:42:52",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3 SportGX",
@@ -1850,7 +2158,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-sport-gx-T84wW7q5RqeCLy6uT7atiQvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:43:04",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     },
     {
       "name": "New2026MazdaMazda3 SportGX",
@@ -1862,7 +2172,9 @@
       "dealer_url": "https://www.applewoodmazdasurrey.ca/inventory/2026-mazda-mazda3-sport-gx-frcy4crKT2qMW8rgs2lzYwvdp?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-22T16:43:15",
       "odometer_km": 16000,
-      "condition": "new"
+      "condition": "new",
+      "city": "Surrey",
+      "province": "BC"
     }
   ]
 }
